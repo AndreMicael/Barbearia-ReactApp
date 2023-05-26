@@ -1,10 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Header';
+import Banner from './Banner';
+import Content from './Content';
+import Footer from './Footer'
 
 function App() {
   return (
     <div className="App">
-   <h1>Foi-se</h1>
+        <Header/>
+        <Banner/>
+        <Content/>
+       
     </div>
   );
 }

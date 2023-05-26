@@ -1,0 +1,7 @@
+.banner {
+    background-image: url(../img/banner-barbearia.jpg);
+    height: 350px;
+    background-position: 0% 35%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
