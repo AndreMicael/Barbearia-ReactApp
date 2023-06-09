@@ -1,12 +1,13 @@
 .content-container {
  
-    height: 40vh;
+    height: 60vh;
     padding: 5%;
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    border: 1px sold red;
 
 }
 
@@ -15,8 +16,7 @@
     font-size: 35px;
     font-weight:700;
     width: 60%;
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px;    
     
        
 }
@@ -39,5 +39,6 @@
     font-family: 'Great Vibes', cursive;
     font-size: 60px;
     color: #B2987D;
+    margin-bottom: 0;
 }
 

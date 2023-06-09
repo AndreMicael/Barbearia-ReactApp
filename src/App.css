@@ -5,10 +5,7 @@
   font-family: 'Poppins', sans-serif;
 
 }
-
-.modo-claro {
-
-  background-color: #fff;
-  color: #000;
-
+body {
+  background-color: transparent;
 }
+

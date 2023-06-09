@@ -1,13 +1,19 @@
 .mode-box {
     
+    position: absolute;
     width: 150px;
     display: flex;
-    flex-direction: column;
-    justify-content: center; 
+    right: 10px;
+    top: 20px;
+
 
 
 }
 
+.mode-box button {
+    border: none;
+    background-color: transparent;
+}
 
 
 
@@ -59,7 +65,7 @@
     height: 100px;
     width: 60vw;
  
-    background-color: #fff
+  
     
 }
 
@@ -72,3 +78,55 @@
 img {
     object-fit: contain;
 }
+
+.modo-claro {
+
+    background-color: #fff;
+    color: #000;
+    animation-name: bg-change-light ;
+    animation-duration: 0.5s;
+    animation-timing-function: ease;
+   
+  
+  }
+  
+  
+  .modo-escuro {
+  
+    background-color: #000;
+    color: #fff;
+    animation-name: bg-change-dark ;
+    animation-duration: 0.5s;
+    animation-timing-function: ease;
+  
+  
+  }
+
+  
+  @keyframes bg-change-light {
+    from {
+         background-color: #000;
+         color: #fff;
+     
+    }
+  
+    to {
+        background-color: #fff;
+        color: #000;
+        
+    }
+  }
+
+  @keyframes bg-change-dark {
+    from {
+         background-color: #fff;
+         color: #000;
+     
+    }
+  
+    to {
+        background-color: #000;
+        color: #fff;
+    }
+  }
+  

@@ -1,22 +1,25 @@
 import React from 'react';
-import Logo from '../img/barbearia-logo.png'
-import darkMode from '../img/moon.png'
 import "./Header.css"
 
-function Header() {
+
+function Header(props) {
+
+
+
+
     return ( 
 
+            
             <section className='navbar-container'>
                 <nav className='navbar'>
-                <img className ="logo" src={Logo}/> 
-                <div className='mode-box'>
-                    <div className='mode-button'>
-                        <img className='mode-img' src={darkMode}/>
-                        <p>Dark</p>
-                    </div>
+                <img className ="logo" src={props.logo} alt="Barber Shop Logo"/> 
+                <div>
+                    
                 </div>
-                </nav>
+                </nav>            
             </section>
+           
+       
 
      );
 }
