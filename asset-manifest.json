@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Barbearia-ReactApp/static/css/main.38c692e7.css",
+    "main.js": "/Barbearia-ReactApp/static/js/main.efecca96.js",
+    "static/js/787.07f71454.chunk.js": "/Barbearia-ReactApp/static/js/787.07f71454.chunk.js",
+    "static/media/banner-barbearia.jpg": "/Barbearia-ReactApp/static/media/banner-barbearia.6e5abe93cc1c1bbbc2d0.jpg",
+    "static/media/barbearia-logo.png": "/Barbearia-ReactApp/static/media/barbearia-logo.28f5f8b1e872f9273d9c.png",
+    "static/media/moon.png": "/Barbearia-ReactApp/static/media/moon.aa0519968d404fb6f25a.png",
+    "static/media/barbearia-logo-white.png": "/Barbearia-ReactApp/static/media/barbearia-logo-white.cfd873c2da0a437f10d1.png",
+    "static/media/sun.png": "/Barbearia-ReactApp/static/media/sun.6d48da504f4816188c8d.png",
+    "index.html": "/Barbearia-ReactApp/index.html",
+    "main.38c692e7.css.map": "/Barbearia-ReactApp/static/css/main.38c692e7.css.map",
+    "main.efecca96.js.map": "/Barbearia-ReactApp/static/js/main.efecca96.js.map",
+    "787.07f71454.chunk.js.map": "/Barbearia-ReactApp/static/js/787.07f71454.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c692e7.css",
+    "static/js/main.efecca96.js"
+  ]
+}
