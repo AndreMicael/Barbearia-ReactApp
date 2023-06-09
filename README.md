@@ -7,6 +7,9 @@ Neste projetos foram utilizados conhecimentos no hook UseState, importação de 
 
 Objetivo: Criação de uma página única para uma Barbearia com o diferencial de possuir um botão Dark Mode para alterar as cores do background, texto, logo e do próprio botão utilizando apenas hooks e props, sem bibliotecas externas.
 
+## Ver Projeto Funcionando 
+https://andremicael.github.io/Barbearia-ReactApp/
+
 
 <h2> Tecnologias usadas </h2>
 
